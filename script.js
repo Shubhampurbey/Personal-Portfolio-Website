@@ -196,6 +196,8 @@ console.log("EmailJS Error:", error);
 const typingText = [
 "Aspiring Data Scientist",
 "Aspiring Data Analyst",
+"Aspiring Machine Learning Engineer",
+"Problem Solver",
 ];
 
 let count = 0;
